@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rikemannen
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to use github
+- 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me idk
+- 📫 How to reach me: [email](mailto:rikemannen.rik@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not funny
 
