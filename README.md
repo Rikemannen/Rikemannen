@@ -4,7 +4,7 @@ I make random projects (mostly for learning). Sometimes I delete them out of sha
 
 ## 🧠 About
 
-* Manjaro user (not really Arch, sorry)
+* Linux user (very important)
 * Favorite tools: `ctrl+z`, `git reset --hard`
 * Learning by breaking stuff
 
